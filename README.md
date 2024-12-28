@@ -1,2 +1,2 @@
 # obsidian-git-portfolio
-hello!
+[[portfolio]]
