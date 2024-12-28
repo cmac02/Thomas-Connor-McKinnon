@@ -1,2 +1,3 @@
 # obsidian-git-portfolio
-[[portfolio]]
+[porfolio](portfolio)
+
