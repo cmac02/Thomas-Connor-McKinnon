@@ -1,3 +1,5 @@
 # obsidian-git-portfolio
-[porfolio](portfolio)
+[portfolio](portfolio.md)
+
+
 
