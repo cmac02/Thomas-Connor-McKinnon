@@ -5,8 +5,9 @@ Senior studying Aerospace Engineering at Auburn University and Formula SAE desig
 # Projects
 ### Formula SAE Rear Wing Design and Manufacturing
 <img src="Formula_SAE/final_render.png" width="600">
-<img src="Formula_SAE/full_car_2.png" width="600">
 <img src="Formula_SAE/full_car.png" width="600">
+<img src="Formula_SAE/full_car_ax.png" width="600">
+
 ### Aircraft 6DOF Simulation
 
 ### Truss Design
