@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "b4388b7b4a08361d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,12 +174,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d354436de6f4338",
+  "active": "b4388b7b4a08361d",
   "lastOpenFiles": [
-    "portfolio.md",
-    "README.md",
     "Formula_SAE/final_render.png",
+    "README.md",
     "Formula_SAE/cured_wing_main.png",
+    "Templates/Figure.md",
+    "Templates",
+    "portfolio.md",
     "Formula_SAE",
     "Formula_SAE/mold_design.png"
   ]
