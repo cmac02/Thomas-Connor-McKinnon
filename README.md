@@ -18,6 +18,7 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 - CFD analysis | Siemens STAR-CCM+, XFOIL
 - Carbon fiber composites manufacturing
 - Manual lathe and mill machining
+
 <img src="Formula_SAE/final_render.png" height="150"><img src="Formula_SAE/full_car.png" height="150">
 <img src="Formula_SAE/full_car_ax.png" width="605">
 
