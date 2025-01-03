@@ -1,2 +1,4 @@
 .trash/
 .DS_Store
+/Templates
+.obsidian/
