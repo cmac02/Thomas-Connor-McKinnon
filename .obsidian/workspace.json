@@ -155,16 +155,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b15751dcc1572d8e",
+  "active": "7d354436de6f4338",
   "lastOpenFiles": [
-    "Pasted image 20250102164054.png",
-    "Formula_SAE/cured_wing_main.png",
+    "portfolio.md",
     "README.md",
+    "Formula_SAE/final_render.png",
+    "Formula_SAE/cured_wing_main.png",
     "Formula_SAE",
-    "Formula_SAE/mold_design.png",
-    "portfolio.md"
+    "Formula_SAE/mold_design.png"
   ]
 }
