@@ -10,14 +10,16 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 ### Formula SAE Rear Wing Design and Manufacturing
 ##### Responsibilities and Achievements:
 - Designed and manufactured the rear aerodynamic package for the Auburn FSAE '23 vehicle
-- Collaborated with an aerodynamics student team to set and fulfill performance requirements of downforce, drag, weight, and center of pressure location.
-- Improved the rear wing downforce drag ratio from 1.5 in previous years to 2.75.
+- Improved the rear wing downforce to drag ratio from 1.5 in previous years to 2.75.
+- Collaborated with an aerodynamics student team to set and fulfill design targets for downforce, drag, weight, and center of pressure location.
 - Modeled the rear wing package in a full vehicle assembly to ensure integration of all subsystems.
 ##### Software Tools and Skills:
 - CAD modeling | Siemens NX
-- RANS Computational Fluid Dynamics | Siemens STAR-CCM+, XFOIL
+- RANS Computational Fluid Dynamics | Siemens STAR-CCM+
 - Carbon fiber composites manufacturing
 - Manual lathe and mill machining
+
+[Rear Aerodynamics Design Presentation](Formula_SAE/aero_rear_design_binder.pdf)
 
 <img src="Formula_SAE/final_render.png" height="150"><img src="Formula_SAE/full_car.png" height="150">
 <img src="Formula_SAE/full_car_ax.png" width="605">
