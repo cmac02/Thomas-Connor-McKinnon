@@ -15,7 +15,7 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 - Modeled the rear wing package in a full vehicle assembly to ensure integration of all subsystems.
 ##### Software Tools and Skills:
 - CAD modeling | Siemens NX
-- CFD analysis | Siemens STAR-CCM+, XFOIL
+- RANS Computational Fluid Dynamics | Siemens STAR-CCM+, XFOIL
 - Carbon fiber composites manufacturing
 - Manual lathe and mill machining
 

@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ca7b6aa2e29520b",
@@ -161,13 +162,13 @@
   },
   "active": "b4388b7b4a08361d",
   "lastOpenFiles": [
-    "().md",
+    "portfolio.md",
     "README.md",
+    "().md",
     "Formula_SAE/full_car_ax.png",
     "Formula_SAE/full_car_2.png",
     "Formula_SAE/full_car.png",
     "Templates/Image HTML.md",
-    "portfolio.md",
     "Formula_SAE/final_render.png",
     "Formula_SAE/cured_wing_main.png",
     "Templates",
