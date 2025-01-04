@@ -19,7 +19,8 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 - Carbon fiber composites manufacturing
 - Manual lathe and mill machining
 
-[Rear Aerodynamics Design Presentation](Formula_SAE/aero_rear_design_binder.pdf)
+##### Design Overview
+- [Rear Aerodynamics Design Presentation](Formula_SAE/aero_rear_design_binder.pdf)
 
 ##### Highlights
 
