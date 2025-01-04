@@ -21,6 +21,8 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 
 [Rear Aerodynamics Design Presentation](Formula_SAE/aero_rear_design_binder.pdf)
 
+##### Highlights
+
 <img src="Formula_SAE/final_render.png" height="150"><img src="Formula_SAE/full_car.png" height="150">
 <img src="Formula_SAE/full_car_ax.png" width="605">
 
