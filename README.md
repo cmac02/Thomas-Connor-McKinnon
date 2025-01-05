@@ -27,6 +27,7 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 <img src="Formula_SAE/final_render.png" height="150"><img src="Formula_SAE/full_car.png" height="150">
 <img src="Formula_SAE/full_car_ax.png" width="605">
 
+
 ### Aircraft 6DOF Simulation
 *MATLAB 6DOF script to model pitch impulse response of a Learjet C-21*
 Final project for AERO 3230 Flight Dynamics course.
@@ -36,11 +37,14 @@ Final project for AERO 3230 Flight Dynamics course.
 ##### Outputs:
 - Time response plots of aircraft state vector and flight parameters
 
+##### Computation Loop Overview
+
+<img src="6DOF/AERO_3230_Overview.png" width="600">
 ##### Impulse Response Plots
 
 <img src="6DOF/altitude.png" width="300"><img src="6DOF/AoA.png" width="300">
 <img src="6DOF/theta.png" width="300"><img src="6DOF/speed.png" width="300">
-<img src="6DOF/AERO_3230_Overview.png" width="600">
+
 ### Truss Design
 
 ### Inviscid Zeroth Order Panel Method
