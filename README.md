@@ -40,6 +40,7 @@ Final project for AERO 3230 Flight Dynamics course.
 ##### Computation Loop Overview
 
 <img src="6DOF/AERO_3230_Overview.png" width="600">
+
 ##### Impulse Response Plots
 
 <img src="6DOF/altitude.png" width="300"><img src="6DOF/AoA.png" width="300">
