@@ -37,8 +37,8 @@ Final project for AERO 3230 Flight Dynamics course.
 - Time response plots of aircraft state vector and flight parameters
 
 <img src="6DOF/AERO_3230_Overview.png" width="600">
-<img src="6DOF/altitude.png" width="285"><img src="6DOF/AoA.png" width="285">
-<img src="6DOF/theta.png" width="285"><img src="6DOF/speed.png" width="285">
+<img src="6DOF/altitude.png" height="150"><img src="6DOF/AoA.png" height="150">
+<img src="6DOF/theta.png" height="150"><img src="6DOF/speed.png" height="150">
 
 ### Truss Design
 
