@@ -41,11 +41,11 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 <img src="6DOF/AERO_3230_Overview.png" width="600">
 
 ##### Time Response Plots
+*Altitude, angle of attack, and pitch angle response to a -5˚ elevator deflection for 0.1 seconds at t = 20 seconds*
 
 <img src="6DOF/altitude.png" width="300"><img src="6DOF/AoA.png" width="300">
 <img src="6DOF/theta.png" width="300"><img src="6DOF/elevator.png" width="300">
 
-*Altitude, angle of attack, and pitch angle response to a -5˚ elevator deflection for 0.1 seconds at t = 20 seconds*
 ### Truss Design
 
 ### Inviscid Zeroth Order Panel Method
