@@ -44,7 +44,7 @@ Final project for AERO 3230 Flight Dynamics course.
 ##### Time Response Plots
 
 <img src="6DOF/altitude.png" width="300"><img src="6DOF/AoA.png" width="300">
-<img src="6DOF/theta.png" width="300"><img src="6DOF/speed.png" width="300">
+<img src="6DOF/theta.png" width="300"><img src="6DOF/elevator.png" width="300">
 
 *5˚ elevator deflection for 0.1 seconds at t = 20 seconds*
 ### Truss Design
