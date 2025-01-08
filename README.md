@@ -59,7 +59,9 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 - Pressure coefficient surface distribution
 - Velocity field of flow domain
 
+##### NACA 0012 Plots
 *NACA 0012 geometry, Cp distribution, streamlines, flow field Cp, and XFOIL comparison for a 5˚ angle of attack*
+
 <img src="Panel_Method/geometry.png" width="300"><img src="Panel_Method/aoa.png" width="300">
 <img src="Panel_Method/streamlines.png" width="300"><img src="Panel_Method/cpfield.png" width="300">
 <img src="Panel_Method/xfoil.png" width="300">
