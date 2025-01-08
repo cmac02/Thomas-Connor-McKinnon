@@ -47,11 +47,9 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 <img src="6DOF/theta.png" width="300"><img src="6DOF/elevator.png" width="300">
 
 ***
-### Truss Design
 
-### Inviscid Zeroth Order Panel Method
+### Linear Vorticity Panel Method
 
-
-
-
-
+<img src="Panel_Method/geometry.png" width="300"><img src="Panel_Method/aoa.png" width="300">
+<img src="Panel_Method/streamlines.png" width="300"><img src="Panel_Method/cpfield.png" width="300">
+<img src="Panel_Method/xfoil.png" width="300">
