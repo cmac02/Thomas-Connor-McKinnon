@@ -1,6 +1,6 @@
 # Thomas Connor McKinnon
 
-My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Auburn University and Formula SAE design engineer with two years of competition experience. Graduating in Spring 2025 and seeking full-time positions to contribute to project success in manufacturing engineering.
+My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Auburn University and Formula SAE design engineer with two years of competition experience. Graduating in Spring 2025 and seeking full-time positions to contribute to project success in modeling and simulation, satellite and spacecraft missions, and manufacturing.
 
 # Projects
 - [Formula SAE Design and Manufacturing](#formula-sae-rear-wing-design-and-manufacturing)
@@ -49,7 +49,17 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 ***
 
 ### Linear Vorticity Panel Method
+- A personal project to look deeper into pressure and lift approximation techniques discussed in coursework for inviscid aerodynamic theory.
+- A MATLAB script that implements a panel method of a linear strength vorticity distribution to approximate the lift and pressure coefficient curve for a NACA 4-digit series airfoil.
+##### Inputs:
+- NACA airfoil parameters (eg. NACA 0012)
+- An array or single value for angle of attack (AoA)
+##### Outputs:
+- Approximated section lift coefficient
+- Pressure coefficient surface distribution
+- Velocity field of flow domain
 
+*NACA 0012 Cp distribution, streamlines, flow field Cp, and XFOIl validation for an AoA of 5˚*
 <img src="Panel_Method/geometry.png" width="300"><img src="Panel_Method/aoa.png" width="300">
 <img src="Panel_Method/streamlines.png" width="300"><img src="Panel_Method/cpfield.png" width="300">
 <img src="Panel_Method/xfoil.png" width="300">
