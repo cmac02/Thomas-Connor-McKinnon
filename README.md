@@ -5,7 +5,6 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 # Projects
 - [Formula SAE Design and Manufacturing](#formula-sae-rear-wing-design-and-manufacturing)
 - [Aircraft 6DOF Simulation](#aircraft-6dof-simulation)
-- [Truss Design](#truss-design)
 - [MATLAB Inviscid Panel Method](#inviscid-zeroth-order-panel-method)
 ### Formula SAE Rear Wing Design and Manufacturing
 ##### Responsibilities and Achievements:
