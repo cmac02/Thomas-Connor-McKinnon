@@ -73,7 +73,7 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 - Velocity field of flow domain
 
 ### NACA 0012 Plots
-*NACA 0012 geometry, XFOIL comparison, streamlines, and Cp distributions for a 5˚ angle of attack*
+*NACA 0012 geometry, streamlines, Cp distributions, and XFOIL comparisons for a 5˚ angle of attack*
 
 <center><img src="Panel_Method/geometry.png" width="450"><img src="Panel_Method/streamlines.png" width="450"></center>
 
