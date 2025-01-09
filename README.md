@@ -1,6 +1,6 @@
 My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Auburn University and Formula SAE design engineer with two years of competition experience. I will be graduating in Spring 2025 and seeking full-time positions to contribute to project success in modeling and simulation, satellite and spacecraft missions, and manufacturing.
 
-# Contents
+### Contents
 - [Formula SAE Design and Manufacturing](#formula-sae-rear-wing-design-and-manufacturing)
 - [Aircraft 6DOF Simulation](#aircraft-6dof-simulation)
 - [MATLAB Inviscid Panel Method](#linear-vorticity-panel-method)
