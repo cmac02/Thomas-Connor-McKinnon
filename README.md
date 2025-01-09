@@ -23,9 +23,9 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 
 ### Final Model and Implementation
 
-<img src="Formula_SAE/final_render.png" height="223"><img src="Formula_SAE/full_car.png" height="223">
+<center><img src="Formula_SAE/final_render.png" height="198"><img src="Formula_SAE/full_car.png" height="198"></center>
 
-<img src="Formula_SAE/full_car_ax.png" width="900">
+<center><img src="Formula_SAE/full_car_ax.png" width="800"></center>
 
 ### Design Overview
 
@@ -46,14 +46,14 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 
 ### Computation Loop Overview
 
-<img src="6DOF/AERO_3230_Overview.png" width="900">
+<center><img src="6DOF/AERO_3230_Overview.png" width="800"></center>
 
 ### Time Response Plots
 *Altitude, angle of attack, and pitch angle response to a -5˚ elevator deflection for 0.1 seconds at t = 20 seconds*
 
-<img src="6DOF/altitude.png" width="450"><img src="6DOF/AoA.png" width="450">
+<center><img src="6DOF/altitude.png" width="450"><img src="6DOF/AoA.png" width="450"></center>
 
-<img src="6DOF/theta.png" width="450"><img src="6DOF/elevator.png" width="450">
+<center><img src="6DOF/theta.png" width="450"><img src="6DOF/elevator.png" width="450"></center>
 
 ***
 
@@ -73,6 +73,8 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 ### NACA 0012 Plots
 *NACA 0012 geometry, XFOIL comparison, streamlines, and Cp distributions for a 5˚ angle of attack*
 
-<img src="Panel_Method/geometry.png" width="300"><img src="Panel_Method/xfoil.png" width="300"><img src="Panel_Method/streamlines.png" width="300">
+<center><img src="Panel_Method/geometry.png" width="450"><img src="Panel_Method/streamlines.png" width="450"></center>
 
-<img src="Panel_Method/cpfield.png" width="450"><img src="Panel_Method/aoa.png" width="450">
+<center><img src="Panel_Method/cpfield.png" width="450"><img src="Panel_Method/aoa.png" width="450"></center>
+
+<center><img src="Panel_Method/xfoil.png" width="450"></center>
