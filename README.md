@@ -26,7 +26,9 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 <img src="Formula_SAE/final_render.png" height="150"><img src="Formula_SAE/full_car.png" height="150">
 
 <img src="Formula_SAE/full_car_ax.png" width="605">
+
 ***
+
 ### Aircraft 6DOF Simulation
 - MATLAB 6DOF script to model elevator impulse response of a Learjet C-21
 - Final project for AERO 3230 Flight Dynamics course
