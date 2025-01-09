@@ -7,11 +7,13 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 - [Aircraft 6DOF Simulation](#aircraft-6dof-simulation)
 - [MATLAB Inviscid Panel Method](#linear-vorticity-panel-method)
 ### Formula SAE Rear Wing Design and Manufacturing
+
 ##### Responsibilities and Achievements:
 - Designed and manufactured the rear aerodynamic package for the Auburn FSAE '23 vehicle
 - Improved the rear wing downforce to drag ratio from 1.5 in previous years to 2.75.
 - Collaborated with an aerodynamics student team to set and fulfill design targets for downforce, drag, weight, and center of pressure location.
 - Modeled the rear wing package in a full vehicle assembly to ensure integration of all subsystems.
+
 ##### Software Tools and Skills:
 - CAD modeling: Siemens NX
 - RANS Computational Fluid Dynamics: Siemens STAR-CCM+
@@ -32,9 +34,11 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 ### Aircraft 6DOF Simulation
 - MATLAB 6DOF script to model elevator impulse response of a Learjet C-21
 - Final project for AERO 3230 Flight Dynamics course
+
 ##### Inputs:
 - [Learjet C-21 aircraft parameters](6DOF/learjet_parameters.png)
 - Elevator, aileron, or rudder deflection function
+
 ##### Outputs:
 - Time response plots of aircraft state vector and flight parameters
 
@@ -54,9 +58,11 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 ### Linear Vorticity Panel Method
 - A personal project to look deeper into pressure and lift approximation techniques discussed in coursework for inviscid aerodynamic theory.
 - A MATLAB script that implements a panel method of a linear strength vorticity distribution to approximate the lift and pressure coefficient curve for a NACA 4-digit series airfoil.
+
 ##### Inputs:
 - NACA airfoil parameters (eg. NACA 0012)
 - An array or single value for angle of attack (AoA)
+
 ##### Outputs:
 - Approximated section lift coefficient
 - Pressure coefficient surface distribution
