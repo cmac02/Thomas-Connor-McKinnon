@@ -45,9 +45,9 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 ##### Time Response Plots
 *Altitude, angle of attack, and pitch angle response to a -5˚ elevator deflection for 0.1 seconds at t = 20 seconds*
 
-<img src="6DOF/altitude.png" width="300"><img src="6DOF/AoA.png" width="300">
+<img src="6DOF/altitude.png" width="400"><img src="6DOF/AoA.png" width="400">
 
-<img src="6DOF/theta.png" width="300"><img src="6DOF/elevator.png" width="300">
+<img src="6DOF/theta.png" width="400"><img src="6DOF/elevator.png" width="400">
 
 ***
 
@@ -63,10 +63,8 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 - Velocity field of flow domain
 
 ##### NACA 0012 Plots
-*NACA 0012 geometry, Cp distribution, streamlines, flow field Cp, and XFOIL comparison for a 5˚ angle of attack*
+*NACA 0012 geometry, XFOIL comparison, streamlines, and Cp distributions for a 5˚ angle of attack*
 
-<img src="Panel_Method/geometry.png" width="300"><img src="Panel_Method/aoa.png" width="300">
+<img src="Panel_Method/geometry.png" width="300"><img src="Panel_Method/xfoil.png" width="300"><img src="Panel_Method/streamlines.png" width="300">
 
-<img src="Panel_Method/streamlines.png" width="300"><img src="Panel_Method/cpfield.png" width="300">
-
-<img src="Panel_Method/xfoil.png" width="300">
+<img src="Panel_Method/cpfield.png" width="450"><img src="Panel_Method/aoa.png" width="450">
