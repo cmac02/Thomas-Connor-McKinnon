@@ -1,13 +1,11 @@
 My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Auburn University and Formula SAE design engineer with two years of competition experience. I will be graduating in Spring 2025 and seeking full-time positions to contribute to project success in modeling and simulation, satellite and spacecraft missions, and manufacturing.
 
-# Projects
-
-## Contents
+# Contents
 - [Formula SAE Design and Manufacturing](#formula-sae-rear-wing-design-and-manufacturing)
 - [Aircraft 6DOF Simulation](#aircraft-6dof-simulation)
 - [MATLAB Inviscid Panel Method](#linear-vorticity-panel-method)
 
-## Formula SAE Rear Wing Design and Manufacturing
+# Formula SAE Rear Wing Design and Manufacturing
 
 ### Responsibilities and Achievements:
 - Designed and manufactured the rear aerodynamic package for the Auburn FSAE '23 vehicle
@@ -33,7 +31,7 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 
 ***
 
-## Aircraft 6DOF Simulation
+# Aircraft 6DOF Simulation
 - MATLAB 6DOF script to model elevator impulse response of a Learjet C-21
 - Final project for AERO 3230 Flight Dynamics course
 
@@ -61,7 +59,7 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 
 ***
 
-## Linear Vorticity Panel Method
+# Linear Vorticity Panel Method
 - A personal project to look deeper into pressure and lift approximation techniques discussed in coursework for inviscid aerodynamic theory.
 - A MATLAB script that implements a panel method of a linear strength vorticity distribution to approximate the lift and pressure coefficient curve for a NACA 4-digit series airfoil.
 
