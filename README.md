@@ -40,7 +40,8 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 - Elevator, aileron, or rudder deflection function
 
 ### Outputs:
-- Time response plots of aircraft state vector and flight parameters
+- Recorded time history of aircraft state vector and flight parameters
+- Time response plots of aircraft trajectory and flight parameters
 
 ### Computation Loop Overview
 
@@ -65,7 +66,7 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 
 ### Inputs:
 - NACA airfoil parameters (eg. NACA 0012)
-- An array or single value for angle of attack (AoA)
+- An array or single value for angle of attack
 
 ### Outputs:
 - Approximated section lift coefficient
@@ -73,7 +74,7 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 - Velocity field of flow domain
 
 ### NACA 0012 Plots
-*NACA 0012 geometry, streamlines, Cp distributions, and XFOIL comparisons for a 5˚ angle of attack*
+*NACA 0012 geometry, streamlines, pressure coefficient distributions, and XFOIL comparisons for a 5˚ angle of attack*
 
 <center><img src="Panel_Method/geometry.png" width="450"><img src="Panel_Method/streamlines.png" width="450"></center>
 
