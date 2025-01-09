@@ -21,15 +21,15 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 - Carbon fiber composites manufacturing
 - Manual lathe and mill machining
 
+### Final Model and Implementation
+
+<img src="Formula_SAE/final_render.png" height="223"><img src="Formula_SAE/full_car.png" height="223">
+
+<img src="Formula_SAE/full_car_ax.png" width="900">
+
 ### Design Overview
 
 <iframe width="100%" height="800" src="Formula_SAE/aero_rear_design_binder.pdf"></iframe>
-
-### Final Model and Implementation
-
-<img src="Formula_SAE/final_render.png" height="150"><img src="Formula_SAE/full_car.png" height="150">
-
-<img src="Formula_SAE/full_car_ax.png" width="605">
 
 ***
 
@@ -46,14 +46,14 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 
 ### Computation Loop Overview
 
-<img src="6DOF/AERO_3230_Overview.png" width="600">
+<img src="6DOF/AERO_3230_Overview.png" width="900">
 
 ### Time Response Plots
 *Altitude, angle of attack, and pitch angle response to a -5˚ elevator deflection for 0.1 seconds at t = 20 seconds*
 
-<img src="6DOF/altitude.png" width="400"><img src="6DOF/AoA.png" width="400">
+<img src="6DOF/altitude.png" width="450"><img src="6DOF/AoA.png" width="450">
 
-<img src="6DOF/theta.png" width="400"><img src="6DOF/elevator.png" width="400">
+<img src="6DOF/theta.png" width="450"><img src="6DOF/elevator.png" width="450">
 
 ***
 
