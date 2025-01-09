@@ -3,6 +3,8 @@
 My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Auburn University and Formula SAE design engineer with two years of competition experience. I will be graduating in Spring 2025 and seeking full-time positions to contribute to project success in modeling and simulation, satellite and spacecraft missions, and manufacturing.
 
 # Projects
+
+## Contents
 - [Formula SAE Design and Manufacturing](#formula-sae-rear-wing-design-and-manufacturing)
 - [Aircraft 6DOF Simulation](#aircraft-6dof-simulation)
 - [MATLAB Inviscid Panel Method](#linear-vorticity-panel-method)
@@ -38,7 +40,7 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 - Final project for AERO 3230 Flight Dynamics course
 
 ### Inputs:
-- [Learjet C-21 aircraft parameters](6DOF/learjet_parameters.png)
+- Learjet C-21 aircraft parameters
 - Elevator, aileron, or rudder deflection function
 
 ### Outputs:
@@ -47,6 +49,10 @@ My name is Connor McKinnon! I am a senior studying Aerospace Engineering at Aubu
 ### Computation Loop Overview
 
 <center><img src="6DOF/AERO_3230_Overview.png" width="800"></center>
+
+### Aircraft Input Parameters
+
+<center><img src="6DOF/learjet_parameters.png" width="800"></center>
 
 ### Time Response Plots
 *Altitude, angle of attack, and pitch angle response to a -5˚ elevator deflection for 0.1 seconds at t = 20 seconds*
